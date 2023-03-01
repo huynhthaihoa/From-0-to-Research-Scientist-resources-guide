@@ -50,6 +50,7 @@ Resource                    | Difficulty     | Relevance
 [3Blue1Brown Essence of Linear Algebra 🎥][3blue] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![25%](https://progress-bar.dev/25/?title=Machine+Learning+Algorithms&color=000000) ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
 [Mathematics For Machine Learning Specialization: Linear Algebra 🎥][MMLLA] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
 [Matrix Methods for Linear Algebra for Gilber Strang UPDATED! 🎥][matrixmethods] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>|  ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
+[Stanford ENGR108 - Introduction to Matrix Methods][engr108] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>|  
   <!--END_SECTION:activity-->
 
 </details>
@@ -142,8 +143,10 @@ Resource                    | Difficulty Level
 [Algorithmic Aspects of Machine Learning MIT 🎥][Mitaspects]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [MIT Course 9.520 - Statistical Learning Theory and Applications, Fall 2015 🎥][mitfallslt]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Undergraduate Machine Learning Course University of British Columbia 2013 🎥][ubc2013]|![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
-
-
+[Google Machine Learning Crash Course with TensorFlow APIs][crashcourse] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+[A Course in Machine Learning][Hal Daume] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+[Stanford CS 329S - Machine Learning Systems Design][design] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Stanford CS229 - Machine Learning][CS229] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 -------------------------------------------------------------------------------- 
 
 [murphyml]: http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf
@@ -190,6 +193,10 @@ Resource                    | Difficulty Level
 [Fast.ai Practical Deep Learning 🎥][fast1] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [Fast.ai Deep Learning From Foundations 🎥][fast2] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [Deep Learning with Python (Keras Author) 📚][keras] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Dive into Deep Learning][d2l] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[The Principles of Deep Learning Theory][theory] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Stanford CS25: Transformers United V2][transformer] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Stanford CS230 Deep Learning][CS230] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 --------------------------------------------------------------------------------  
 
 ## Reinforcement Learning 
@@ -225,20 +232,28 @@ Resource                    | Difficulty Level
 [cmu 2021 Neural Nets for NLP 2021🎥][cmunlp2021]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Jurafsky and Manning Introduction to Natural Language Processing🎥][jurafskynlp]| ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 
-### Must Read NLP Papers:
-In this section, I am going to list the most influential papers that help people who want to dig deeper into the research world of NLP to catch up.
-Paper                    | Comment
+--------------------------------------------------------------------------------  
+
+## Computer vision
+
+It is a sub-field of AI which focuses on the interpretation of visual world. 
+
+Resource                    | Difficulty Level 
 ------------------------- | ---------------
-# TODO
+[Stanford CS131 Computer Vision: Foundations and Applications][CS131] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Stanford CS231n: Deep Learning for Computer Vision][CS231n] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[KAIST CS484: Introduction to Computer Vision][CS484] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[PSU CSE/EE486 Computer Vision I][CSE/EE486] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[PSU CSE586/EE554 Computer Vision II][CSE586/EE554] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Cornell CS6670 - Computer Vision][CS6670] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 
-
-
-
-
-
-
-
-
+[engr108]: https://stanford.edu/class/engr108/
+[CS6670]: https://www.cs.cornell.edu/courses/cs6670/2022fa/
+[CSE586/EE554]: https://www.cse.psu.edu/~rtc12/CSE586/
+[CSE/EE486]: https://www.cse.psu.edu/~rtc12/CSE486/
+[CS484]: http://vclab.kaist.ac.kr/cs484/index.html
+[CS231n]: http://cs231n.stanford.edu/
+[CS131]: http://vision.stanford.edu/teaching/cs131_fall2223/
 [manninginformationr]: https://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf
 [fsnlp]: https://github.com/shivamms/books/blob/master/nlp/Foundations%20of%20Statistical%20Natural%20Language%20Processing%20-%20Christopher%20D.%20Manning.pdf
 [jurafskybook]: https://web.stanford.edu/~jurafsky/slp3/
@@ -299,3 +314,11 @@ Paper                    | Comment
 [mmlbook]: https://mml-book.github.io/book/mml-book.pdf
 [James_Hamblin]: https://www.youtube.com/watch?v=HAoL5fPmgrw&list=PLNr8B4XHL5kGDHOrU4IeI6QNuZHur4F86
 [keras]: https://www.manning.com/books/deep-learning-with-python
+[d2l]: https://d2l.ai/index.html
+[theory]: https://deeplearningtheory.com/
+[transformer]: https://web.stanford.edu/class/cs25/
+[crashcourse]: https://developers.google.com/machine-learning/crash-course/
+[Hal Daume]: http://ciml.info/
+[CS230]: https://cs230.stanford.edu/
+[design]: https://stanford-cs329s.github.io/
+[CS229]: https://cs229.stanford.edu/
