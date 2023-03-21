@@ -243,11 +243,11 @@ Resource                    | Difficulty Level
 ------------------------- | ---------------
 [Stanford CS131 Computer Vision: Foundations and Applications][CS131] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Stanford CS231n: Deep Learning for Computer Vision][CS231n] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Stanford CS231A: Computer Vision, From 3D Reconstruction to Recognition][CS231A] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [KAIST CS484: Introduction to Computer Vision][CS484] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [PSU CSE/EE486 Computer Vision I][CSE/EE486] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [PSU CSE586/EE554 Computer Vision II][CSE586/EE554] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Cornell CS6670 - Computer Vision][CS6670] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Stanford CS231A: Computer Vision, From 3D Reconstruction to Recognition][CS231A] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 
 [engr108]: https://stanford.edu/class/engr108/
 [CS6670]: https://www.cs.cornell.edu/courses/cs6670/2022fa/
