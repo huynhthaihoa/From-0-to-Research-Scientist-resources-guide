@@ -28,6 +28,7 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 - [Deep Learning](#Deep-Learning)
 - [Reinforcement Learning](#Reinforcement-Learning)
 - [Natural Language Processing](#Natural-Language-Processing)
+- [Computer Vision](#Computer-Vision)
 
 ## Mathematical Foundations:
 The Mathematical Foundation part is for all Artificial Intelligence branches such as Machine Learning, Reinforcement Learning, Computer Vision and so on. AI is heavily math-theory based so a solid foundation is essential.
@@ -234,7 +235,7 @@ Resource                    | Difficulty Level
 
 --------------------------------------------------------------------------------  
 
-## Computer vision
+## Computer Vision
 
 It is a sub-field of AI which focuses on the interpretation of visual world. 
 
@@ -246,6 +247,7 @@ Resource                    | Difficulty Level
 [PSU CSE/EE486 Computer Vision I][CSE/EE486] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [PSU CSE586/EE554 Computer Vision II][CSE586/EE554] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Cornell CS6670 - Computer Vision][CS6670] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Stanford CS231A: Computer Vision, From 3D Reconstruction to Recognition][CS231A] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 
 [engr108]: https://stanford.edu/class/engr108/
 [CS6670]: https://www.cs.cornell.edu/courses/cs6670/2022fa/
@@ -322,3 +324,4 @@ Resource                    | Difficulty Level
 [CS230]: https://cs230.stanford.edu/
 [design]: https://stanford-cs329s.github.io/
 [CS229]: https://cs229.stanford.edu/
+[CS231A]: https://web.stanford.edu/class/cs231a/index.html
